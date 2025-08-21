@@ -1,0 +1,2 @@
+# Legal-Named-Entity-Masking-for-Classification-of-Rhetorical-Roles-in-Indian-Legal-Judgments-
+Research work to create an efficient, transparent framework for Indian legal judgment documents classification to counter challenges with document sorting, information retrieval, by the combination of pre-trained models fine-tuned for the Indian Legal domain, by applying Named Entity masking for legal entities, and explainability techniques. 
