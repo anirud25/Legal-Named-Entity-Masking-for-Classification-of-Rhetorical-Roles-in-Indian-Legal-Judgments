@@ -15,7 +15,8 @@ Indian Legal Classification, Rhetorical Roles, Named Entity Recognition, Transfo
 ## Authors
 - Anirud Ramani (**anirud25@gmail.com**)
 - Dr. Manju Venugopalan
-Dept of CSE, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru, India
+
+(Dept of CSE, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru, India)
 
 ## Proposed Framework
 <img width="1055" height="447" alt="image" src="https://github.com/user-attachments/assets/47bbcca6-f088-40a3-ac31-cec50bf6d6fd" />
