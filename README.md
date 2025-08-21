@@ -33,8 +33,8 @@ Legal-Named-Entity-Masking-for-Classification-of-Rhetorical-Roles-in-Indian-Lega
 ```
 
 ## Citation
-If you use this code or build upon this work, please cite our paper:
-A. Ramani and M. Venugopalan, "Leveraging Transfer Learning and Legal Named Entity Masking for Classification of Rhetorical Roles in Indian Legal Judgments," 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2025, pp. 1193-1200, doi: 10.1109/ICPCSN65854.2025.11035781.
+If you use this code or build upon this work, please cite our paper:  
+``` A. Ramani and M. Venugopalan, "Leveraging Transfer Learning and Legal Named Entity Masking for Classification of Rhetorical Roles in Indian Legal Judgments," 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2025, pp. 1193-1200, doi: 10.1109/ICPCSN65854.2025.11035781.```
 
 
 
