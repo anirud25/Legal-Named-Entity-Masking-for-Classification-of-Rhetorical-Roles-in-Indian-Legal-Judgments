@@ -9,8 +9,8 @@ The lengthy and complex nature of Indian legal documents, such as judgment texts
 Indian Legal Classification, Rhetorical Roles, Named Entity Recognition, Transformers, Explainable AI, Natural Language Processing
 
 ## Corpus
-  Available - https://huggingface.co/opennyaiorg/InRhetoricalRoles
-  Research Article - Corpus for Automatic Structuring of Legal Documents https://aclanthology.org/2022.lrec-1.470/
+  Available - https://huggingface.co/opennyaiorg/InRhetoricalRoles  
+  Research Article - Corpus for Automatic Structuring of Legal Documents https://aclanthology.org/2022.lrec-1.470/  
 
 ## Authors
 - Anirud Ramani **Contact**- **anirud25@gmail.com**
@@ -25,14 +25,15 @@ Fig. Proposed Framework for Rhetorical Role Classification
 Legal-Named-Entity-Masking-for-Classification-of-Rhetorical-Roles-in-Indian-Legal-Judgments/
 │
 ├── notebooks/
-│   ├── RR_LegalClassification.ipynb   # Full pipeline: preprocessing → models → explainability → LLMs
-│   └── LegalClassifcation_ExtraModels.ipynb       # Additional classification experiments
-│
+│   ├── RR_LegalClassification.ipynb               # Full pipeline: preprocessing → models → explainability → LLMs  
+│   └── LegalClassifcation_ExtraModels.ipynb       # Additional classification experiments  
+│  
 ├── README.md
+  
 
 ## Citation
 If you use this code or build upon this work, please cite our paper:
-[A. Ramani and M. Venugopalan, "Leveraging Transfer Learning and Legal Named Entity Masking for Classification of Rhetorical Roles in Indian Legal Judgments," 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2025, pp. 1193-1200, doi: 10.1109/ICPCSN65854.2025.11035781.]
+A. Ramani and M. Venugopalan, "Leveraging Transfer Learning and Legal Named Entity Masking for Classification of Rhetorical Roles in Indian Legal Judgments," 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN), Salem, India, 2025, pp. 1193-1200, doi: 10.1109/ICPCSN65854.2025.11035781.
 
 
 
